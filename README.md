@@ -1,5 +1,5 @@
 # 🚀 Automação de Login com Playwright
-
+Projeto de automação
 ## 📌 Sobre o projeto
 
 Este projeto realiza uma automação de login em um site de teste utilizando Python e Playwright.
